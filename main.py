@@ -1,4 +1,4 @@
-#author: insertuserIDhere
+#Author: spasemax0
 # simple customizable AI base script
 
 import json
